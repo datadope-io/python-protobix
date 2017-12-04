@@ -1,3 +1,19 @@
+python-protobix (1.0.1-1) unstable; urgency=medium
+
+  [ Jean Baptiste Favre ]
+  * Documentation fix
+
+  [ Alen Komic ]
+  * Adds ZBX_NOTSUPPORTED
+
+  [ Jean Baptiste Favre ]
+  * Finale 1.0.0 release
+  * Documentation fix
+  * 1.0.1 Release with ZBX_NOTSUPPORTED support
+  * Update Debian standards
+
+ -- Jean Baptiste Favre <debian@jbfavre.org>  Mon, 04 Dec 2017 10:51:13 +0100
+
 python-protobix (1.0.0-1) unstable; urgency=medium
 
   * New upstream release
