@@ -1,3 +1,9 @@
+python-protobix (1.0.2-1) unstable; urgency=medium
+
+  * Remove pylint deprecated option
+
+ -- Jean Baptiste Favre <debian@jbfavre.org>  Wed, 31 Oct 2018 12:48:40 +0100
+
 python-protobix (1.0.1-1) unstable; urgency=medium
 
   [ Jean Baptiste Favre ]
